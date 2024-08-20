@@ -216,4 +216,3 @@
 </table>
 <p class="has-line-data" data-line-start="96" data-line-end="97">This publication contains the third-order contributions to the <strong><em>quark-gluon and gluon-quark timelike splitting functions</em></strong> for the evolution of fragmentation functions in perturbative QCD.</p>
 </body></html>
-=======
